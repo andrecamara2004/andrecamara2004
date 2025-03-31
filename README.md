@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm André!
 
-<!--
-**andrecamara2004/andrecamara2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at NOVA University Lisbon  
+⚙️ Currently working on university projects. I also have my own projects  
+🌍 Previously studied and played soccer in the USA with an athletic scholarship 
+🚀 Passionate about software engineering, AI, and learning how things work from the inside out
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Recent Projects
+- **Reddit "alike"** - Developing an app similar to Reddit using Java for one of my classes (Distriuted Systems)
+- **Image Classification** - Developed some deep learning models capable of classifying images from CIFAR-10 dataset
+- **File System in C** – Built a custom file system for an OS class. Handles inodes, directories, read/write ops, and more.
+- **Data Structures in Java** – Implemented custom stacks, queues, lists with iterators and exception handling.
+
+
+## 📌 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+---
+
+Thanks for stopping by! Always happy to collaborate, learn, and build new things 🌱
