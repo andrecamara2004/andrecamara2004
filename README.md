@@ -8,6 +8,7 @@
 
 ## 📚 Recent Projects
 - **Reddit "alike"** - Developing an app similar to Reddit using Java for one of my classes (Distriuted Systems)
+- **Dynamic Programming** - Solving some problems like leet-code questions using dynamic programing.
 - **Image Classification** - Developed some deep learning models capable of classifying images from CIFAR-10 dataset
 - **File System in C** – Built a custom file system for an OS class. Handles inodes, directories, read/write ops, and more.
 - **Data Structures in Java** – Implemented custom stacks, queues, lists with iterators and exception handling.
