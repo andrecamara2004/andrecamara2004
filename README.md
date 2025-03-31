@@ -2,7 +2,7 @@
 
 -🎓 I'm a Computer Science student at NOVA University Lisbon  
 -⚙️ Currently working on university projects. I also have my own projects  
--🌍 Previously studied and played soccer in the USA with an athletic scholarship
+-🌍 Previously studied and played soccer in the USA with an athletic scholarship  
 -🚀 Passionate about software engineering, AI, and learning how things work from the inside out
 
 
