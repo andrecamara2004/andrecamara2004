@@ -1,7 +1,7 @@
 # 👋 Hi, I'm André!
 
 -🎓 I'm a Computer Science Master's student at Instituto Superior Técnico  
--⚙️ Currently working as a Software Engineer @ Finsolutia 
+-⚙️ Currently working as a Software Engineer @ Finsolutia  
 -🌍 Previously studied and played soccer in the USA with an athletic scholarship  
 -🚀 Passionate about software engineering, AI, and learning how things work from the inside out
 
